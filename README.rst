@@ -6,7 +6,8 @@ This library bundles `Everaldo's Crystal icons
 <http://www.everaldo.com/crystal/>`_ for direct consumption with Django
 applications. Sizes available are 64x64 and 128x128. Look for
 `django-crystal-small <http://pypi.python.org/pypi/django-crystal-small/>`_ for
-16x16, 22x22, 24x24, 32x32 and 48x48.
+16x16, 22x22, 24x24, 32x32 and 48x48.  The icons are additionally crushed using
+pngcrush, optipng and advpng.
 
 Very simple installation:
 
