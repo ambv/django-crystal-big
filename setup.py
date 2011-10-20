@@ -27,11 +27,11 @@ setup (
     version = '2011.2.13',
     author = 'Everaldo Coehlo, Lukasz Langa',
     author_email = 'contact@everaldo.com, lukasz@langa.pl',
-    description = "Everaldo's Crystal icons bundled for direct consumption "
+    description = "Everaldo's Crystal icons (big sizes) bundled for direct consumption "
                   "from Django applications",
     long_description = long_description,
     url = 'http://www.everaldo.com/crystal/',
-    keywords = 'django crystal icons everaldo lgpl static',
+    keywords = 'django big crystal icons everaldo lgpl static',
     platforms = ['any'],
     license = 'LGPL',
     packages = find_packages('src'),
